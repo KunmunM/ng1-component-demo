@@ -1,4 +1,5 @@
 # Angular 1.5 Component Demo
+https://www.youtube.com/watch?v=AMwjDibFxno
 
 A demo application for ng-conf 2016 to demonstrate a component based architecture with Angular 1.5
 
